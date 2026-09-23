@@ -122,6 +122,8 @@ root@quanghuy2603:~$ learning-status
 
 <br/><br/>
 
+</div>
+
 ```text
 root@quanghuy2603:~$ ./connect.sh
 
@@ -129,6 +131,8 @@ root@quanghuy2603:~$ ./connect.sh
 [+] Contact channels loaded.
 [✓] Ready to connect and learn together.
 ```
+
+<div align="center">
 
 ### `Keep learning. Keep exploring. Keep growing.`
 
