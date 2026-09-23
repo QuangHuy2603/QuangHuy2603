@@ -89,7 +89,7 @@ Mục tiêu hiện tại của tôi là tích cực học hỏi, trải nghiệm
 
 <div align="center">
 
-<a href="https://github.com/QuangHuy2603"><img width="49%" src="https://github-readme-stats.vercel.app/api?username=QuangHuy2603&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=00FF00&icon_color=00FF00&text_color=C9D1D9&ring_color=00FF00" alt="Nguyen Quang Huy GitHub Stats"/></a><a href="https://git.io/streak-stats"><img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=QuangHuy2603&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF00&fire=00FF00&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=00FF00&sideLabels=00FF00&dates=8B949E" alt="Nguyen Quang Huy GitHub Streak"/></a>
+<a href="https://github.com/QuangHuy2603"><img width="49%" src="https://github-readme-stats-fast.vercel.app/api?username=QuangHuy2603&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=00FF00&icon_color=00FF00&text_color=C9D1D9" alt="Nguyen Quang Huy GitHub Stats"/></a><a href="https://git.io/streak-stats"><img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=QuangHuy2603&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF00&fire=00FF00&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=00FF00&sideLabels=00FF00&dates=8B949E" alt="Nguyen Quang Huy GitHub Streak"/></a>
 
 </div>
 
