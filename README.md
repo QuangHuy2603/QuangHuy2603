@@ -5,7 +5,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:000000,50:001a00,100:00ff00&text=NGUYEN%20QUANG%20HUY&fontColor=00ff00&fontSize=42&fontAlignY=38&desc=Information%20Security%20Student%20%40%20HCMUTE&descAlignY=60&descSize=17&animation=fadeIn" alt="Nguyen Quang Huy Cybersecurity Profile"/>
 
 <a href="https://github.com/QuangHuy2603">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=800&color=00FF00&center=true&vCenter=true&repeat=true&width=760&height=70&lines=student%40hcmute%3A~%24+whoami;Nguyen+Quang+Huy;Information+Security+Student;Learning+%E2%80%A2+Exploring+%E2%80%A2+Growing" alt="Terminal typing animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=800&color=00FF00&center=true&vCenter=true&repeat=true&width=760&height=70&lines=root%40quanghuy2603%3A~%24+whoami;Nguyen+Quang+Huy;Information+Security+Student;Learning+%E2%80%A2+Exploring+%E2%80%A2+Growing" alt="Terminal typing animation"/>
 </a>
 
 <br/>
@@ -20,7 +20,7 @@
 ## `> whoami`
 
 ```bash
-student@hcmute:~$ whoami
+root@quanghuy2603:~$ whoami
 
 Name       : Nguyễn Quang Huy
 Role       : Information Security Student
@@ -89,12 +89,12 @@ Mục tiêu hiện tại của tôi là tích cực học hỏi, trải nghiệm
 
 <div align="center">
 
-<a href="https://github.com/QuangHuy2603"><img width="49%" src="https://github-readme-stats-fast.vercel.app/api?username=QuangHuy2603&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=00FF00&icon_color=00FF00&text_color=C9D1D9" alt="Nguyen Quang Huy GitHub Stats"/></a><a href="https://git.io/streak-stats"><img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=QuangHuy2603&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF00&fire=00FF00&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=00FF00&sideLabels=00FF00&dates=8B949E" alt="Nguyen Quang Huy GitHub Streak"/></a>
+<a href="https://github.com/QuangHuy2603"><img width="49%" height="195" src="https://github-readme-stats-fast.vercel.app/api?username=QuangHuy2603&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=00FF00&icon_color=00FF00&text_color=C9D1D9" alt="Nguyen Quang Huy GitHub Stats"/></a><a href="https://git.io/streak-stats"><img width="49%" height="195" src="https://github-readme-streak-stats.herokuapp.com?user=QuangHuy2603&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF00&fire=00FF00&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=00FF00&sideLabels=00FF00&dates=8B949E" alt="Nguyen Quang Huy GitHub Streak"/></a>
 
 </div>
 
 ```bash
-student@hcmute:~$ git status
+root@quanghuy2603:~$ git status
 
 On branch learning-journey
 Your knowledge is growing every day.
@@ -129,7 +129,7 @@ Keep learning and exploring.
 <br/><br/>
 
 ```text
-student@hcmute:~$ ./connect.sh
+root@quanghuy2603:~$ ./connect.sh
 
 [+] Initializing connection...
 [+] Contact channels loaded.
@@ -143,6 +143,6 @@ student@hcmute:~$ ./connect.sh
 </div>
 
 <!--
-student@hcmute:~$ echo $MINDSET
+root@quanghuy2603:~$ echo $MINDSET
 Learn continuously. Practice patiently. Grow consistently.
 -->
