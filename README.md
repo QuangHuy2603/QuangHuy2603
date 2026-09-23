@@ -19,7 +19,7 @@
 
 ## `> whoami`
 
-```bash
+```text
 root@quanghuy2603:~$ whoami
 
 Name       : Nguyễn Quang Huy
@@ -93,19 +93,13 @@ Mục tiêu hiện tại của tôi là tích cực học hỏi, trải nghiệm
 
 </div>
 
-```bash
-root@quanghuy2603:~$ git status
+```text
+root@quanghuy2603:~$ learning-status
 
-On branch learning-journey
-Your knowledge is growing every day.
-
-Changes in progress:
-  modified: programming-skills
-  modified: networking-knowledge
-  modified: security-fundamentals
-
-No destination selected yet.
-Keep learning and exploring.
+[+] Building programming foundations
+[+] Exploring networks and operating systems
+[+] Learning information security fundamentals
+[✓] Progress: ongoing
 ```
 
 ---
